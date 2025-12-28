@@ -2,8 +2,6 @@
 
 - Implementação em Java, utilizando o framework Spring Boot, de uma API de um serviço Web RESTful para automação residencial.
 
-- Todas as funcionalidades foram implementadas.
-
 ## Execução
 - Clonar e acessar o diretório raiz:
    
